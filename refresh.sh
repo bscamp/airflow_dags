@@ -1,4 +1,4 @@
 #!/bin/sh
 
-cd /home/airflow/airflow/airflow_dags
+cd /home/airflow/airflow/dags
 git pull
