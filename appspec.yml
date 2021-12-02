@@ -2,4 +2,4 @@ version: 0.0
 os: linux
 hooks:
   BeforeInstall:
-    - location: home/airflow/airflow/dags/refresh.sh
+    - location: ./refresh.sh
